@@ -1,2 +1,6 @@
 hi
 print("Hello")
+5lc.
+;
+;
+;
