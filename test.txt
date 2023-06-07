@@ -1,2 +1,4 @@
 hi
 print("Hello")
+5 lc. 
+print("hello my dear friend")
