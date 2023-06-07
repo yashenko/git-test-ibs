@@ -1,5 +1,6 @@
 hi
 print("Hello")
 5 lc. 
-print("hello my dear friend")
-Print( "какие то комитты")
+print("hello my dear friend");
+Print( "какие то комитты");
+
